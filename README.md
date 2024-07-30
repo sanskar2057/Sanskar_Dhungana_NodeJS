@@ -29,7 +29,6 @@ This is a Casino Bonus system where we can calculate casino bonus system based o
 3. Database
 
    - Create a database name 'casino_bonus_system'
-
  ```sh
      CREATE DATABASE casino_bonus_system
   ```
